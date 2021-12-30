@@ -30,3 +30,4 @@
 - [Advanced Persistent Threat Hacking: The Art and Science of Hacking Any Organization by Tyler Wrightson, 2014](http://www.amazon.com/Advanced-Persistent-Threat-Hacking-Organization/dp/0071828362)
 - [Bug Hunter's Diary by Tobias Klein, 2011](https://www.nostarch.com/bughunter)
 - [Advanced Penetration Testing by Wil Allsopp, 2017](https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689/)
+- https://u1lib.org/s/bug%20bounty%20cheat%20sheet
